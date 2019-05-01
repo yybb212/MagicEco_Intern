@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>logo_magic-eco.png</file>
+    <file>wallpaper.png</file>
+  </qresource>
+</RCC>
